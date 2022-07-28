@@ -5,7 +5,7 @@ Demo fonts that exploit the COLRv1 spec to show new possibilities in monochrome 
 ## Background
 
 The [OpenType COLRv1 specification](https://docs.microsoft.com/en-us/typography/opentype/spec/colr) version 1.9, published in 2021, introduces a number of powerful new ways to handle color data in fonts. Compared with COLRv0, introduced in 2013, COLRv1 adds features including:
-* gradients (linear, radial and sweep) with multiple color stops
+* gradients (linear/radial/sweep with multiple color stops)
 * blending modes
 * affine transformations
 
